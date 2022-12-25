@@ -10,3 +10,6 @@ salary = 1000.75
 
 print(f"Salary = {salary}")
 print(type(salary))
+
+print(f"Username: {username}\nAge: {age} years old\nSalary: {salary}"
+      )
